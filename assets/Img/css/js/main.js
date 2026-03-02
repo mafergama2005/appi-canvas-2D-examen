@@ -100,4 +100,6 @@ function dibujar() {
   detalles();
 }
 
+
+
 dibujar();
